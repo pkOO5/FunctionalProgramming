@@ -5,7 +5,7 @@ import java.util.List;
 public class FP01Functional4 {
 	
 	public static void main(String[] args) {
-	List<String> courses = List.of("Spring Boot","Spring MVC","API","AWS","Docker","Kubernetes","Microservices");
+	List<String> courses = List.of("Spring Boot","Spring MVC","API","AWS","Docker","Kubernetes","Microservices","git");
 	printCoursesInListFunctional(courses);
 
 	}
